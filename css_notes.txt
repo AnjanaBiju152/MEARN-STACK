@@ -88,3 +88,31 @@ id
 class
 tag
 universal
+
+------------------------------------------------------
+span tag  :- is used to  select /wrap a particular word or text from an entire item
+
+-----------------------------------------------------------------
+CSS BOX MODEL
+---------------
+ every html element contains is contained in a BOX
+ this html elements has a default margin ,padding and border
+ padding and margin can be 0 else 
+ main containt of css model, margin,padding and border
+
+  - margin distance between html element and screen as next html element
+  - padding - distance between border and html content
+
+ margin 4types :
+ ----------------------
+ margin top
+ margin left
+ margin right
+ margin bottom
+
+ padding 4 type :
+ ------------------------------
+padding top
+padding right
+padding left
+padding bottom
