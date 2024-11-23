@@ -1,0 +1,90 @@
+CSS:- CASCASDED STYLE SHEET
+-------------------------
+.  we uses for html styling
+
+. 3 ways  for applying style for html elements
+1) inline CSS
+2)internal CSS
+3)external CSS
+-------------------------------------
+1)Inline css :- same line using style atrribute 
+-------------
+eg:
+<h3 style="color: red;font size:40px;">
+text</h3>
+
+inline css is applyed on same html element 
+syntax:-
+ style ="attribute:value;"
+ 
+ disadvantages:-
+               if the webpage is very large and applying inline css for all html elements
+               code become very large and difficult to understand
+
+
+color picker  :- choosing color
+
+------------------------------------------------------
+2) internal css:-  we are writing css in the same file but inside head tag using style tag 
+
+applying in header tag
+
+syntax:-
+      <head>
+      <style>
+      tag{
+        property:value;
+      }
+</style>
+<\head>
+
+----------------------------------------------
+3) external css:- we are writing css in external file 
+             we have to import the css file in html  file
+             most commly used
+
+ advantages:- code neat
+              reduce the complicity of the html code
+              code reuse ability
+
+HTML SELECTORS
+---------------
+
+to select a particular html element
+
+1) tag selector
+2)id selector
+3) class selector
+4) universal selector
+
+--------------------------------------------
+
+1)tag selector : just tag name we are giving
+syntax :-
+tag_name{
+    property:value;
+}
+
+2)id selector : this must be unique for every html element used to apply specific to 1 html element
+ syntax:-
+  #id_name{
+    property:value;
+  }
+
+3)class selector : this is used to group html elements,if we wants to apply same style property to an multiple html element
+  syntax:-
+   .class_name{
+    property:value;
+   }
+
+4) universal selector : used for entire web page
+                         used to apply any specific property in each element in the html page
+                         * is us used
+-----------------------------------------------------------------------
+priority wise html tracking css
+--------------------------------
+inline
+id
+class
+tag
+universal
