@@ -64,3 +64,66 @@ target ="blank"  :display in another tag
 <emp>: emphasis
 <b> :bold text
 ..................................................................
+LIST TAGES
+-------------
+1) ordered list
+
+    <ol>
+      <li>  </li>
+    </ol>
+
+   *  li*10  10 times print
+   *  <ol start="10">  :start the list from 10
+   
+   * <ol type ="A">
+   * <ol type ="a">
+
+   * <ol type ="I"> these are indicate roman letters
+   * <ol type ="i">
+
+   2)unordered list
+        
+       <ul>
+         <li></li>
+      </ul>
+      
+      * <ul type ="square">  
+      * <ul type ="disc">
+      * <ul type ="circle">
+      * <ul type ="none">
+
+*  <ul style ="list-style-type = square";>
+* type can be configure both for ol and ul
+
+SUBSCRIPT 
+------------
+<sub>
+
+</sub>
+ * to print chemical formulas
+
+<SUPERSRIPT>
+
+<sup>
+
+</sup>
+* to  print mathematical formulas
+..............................................
+
+file example.command
+
+VIDEO tag
+-------------
+<video controls>
+ <source src ="" type ="">
+</video>
+
+
+AUDIO tag
+------------
+<audio controls>
+ <source src ="" type ="">
+</audio>
+.............................................
+hr tag <hr>  :to ptint hrizontal lines
+image tag  <img> : to display images
