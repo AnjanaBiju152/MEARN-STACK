@@ -1,0 +1,66 @@
+           HTML
+      -----------------------
+
+Different between Markup Language and Programming Language
+--------------------------------------------------------------
+-> Markup Language
+
+*  HTML,XML
+*  to design a webpage
+*  for creating the skelton of a webpage
+*  markup languages are also called tage based languages
+*  because tags are used to create elements in webpage
+*  browser is used to run
+
+-> Programming Language
+
+* JAVA,C, JavaScript
+* used to implement logical operations
+* to give ,instructions to the computer to perform some tasks
+*  compiler is need to run 
+
+
+-------------------------------------------------------------
+
+Tag based Language
+
+* opening tag <body>
+* closing tag </body>
+* self closing tag <img/>
+* independent tag <br>
+------------------------------------------
+BASICS
+----------
+* extension used  to create an html file is .html
+  eg: pgm.html
+* Live Server is the extension to dynamically detect the change and load the webpage
+
+..........................................................
+ctrl + /    used to command
+shift + !    used to load the basic structure of html
+./           call same folder
+../          call another folder
+
+............................................................
+
+HTML TAGES
+-----------------------
+<!DOCTYPE html> declaration defines that this document is an HTML5 document
+<html> element is the root element of an HTML page
+<head> element contains meta information about the HTML page
+<title> element specifies a title for the HTML page
+<body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
+<h1> element defines a large heading ,heading tag h1 to h5
+<p> element defines a paragraph, paragraph tag : <p> </p>  (loren)
+anchor tag   : used to redirect the particular web page
+<a = href""> </a> 
+target ="blank"  :display in another tag
+<br>  : open in new tag
+
+........................................................................................
+<i> : italics  text
+<br> :line break
+<strong> :same as bold text
+<emp>: emphasis
+<b> :bold text
+..................................................................
