@@ -127,3 +127,52 @@ AUDIO tag
 .............................................
 hr tag <hr>  :to ptint hrizontal lines
 image tag  <img> : to display images
+
+
+
+................................................
+figuare tag
+------------
+<figuare> 
+</figuare>
+<figcaption>
+.....................
+figcaption and figuare tag:- to adding image and imagecaption 
+
+iframe tag:-   to embed youtube video and google map
+      <iframe>
+      </iframe>
+         
+      youtube:-  .play a youtube video, after skiping adding ad,
+                  .right click the video  and copy the embed code
+
+      google map:-  . open google map
+                     . select place and share
+                     then select embed map and copy html
+
+
+     HTML TABLE  
+     ---------------      
+
+     <table> is used to create table . 
+     <tr>    is used create row  
+     <th>    is used row heading
+     <td>    contains of table    
+
+     -------------------------------------------                            
+      HTML FORM
+      ------------
+      An HTML form is used to collect user input.
+      <form> is used to create  html forms for user input:
+          
+           <form action =""> 
+
+           <label for=""> </label>
+           The <label> tag defines a label for many form elements.
+            the user focuses on the input element.
+The for attribute of the <label> tag should be equal to the id attribute of the <input> element to bind them together.
+
+
+            <input type ="text" id="" >  
+            The HTML <input> element is the most used form element.
+            An <input> element can be displayed in many ways, depending on the type attribute.
