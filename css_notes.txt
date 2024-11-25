@@ -116,3 +116,33 @@ padding top
 padding right
 padding left
 padding bottom
+--------------------------------------------
+
+TYPE OF HTML elements
+--------------------------
+1)inline :- the element display on same line
+eg:  span,input,button
+
+2)block element :- the element display on the different lines.
+eg:  div,p,h
+
+3)inline block :- property given to inline elements to make it as block element.
+
+.................................................
+display:flex :- this propert is used to display blockelements in same line,
+for this, for the elements we have given in display:flex
+
+
+................................................................................
+
+CSS POSITIONS
+--------------------------
+1) relative :-     the element is positioned relative to the normal postion in the document.
+  top,buttom,left,right properties can applied to positioned element.
+
+2) absolute :-     the element is positioned relative to the nearest positioned ancestors 
+if no such ancestors ,it is positioned relative to the html element.
+
+3)fixed  :-   the position of the particular element is fixed ,even if we scroll
+
+--------------------------------------------------------------------------------------
