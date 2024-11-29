@@ -1,18 +1,21 @@
-.heading{
+.heading {
     color: brown;
 
 }
-.banner_text{
+
+.banner_text {
     background-color: chocolate;
 }
 
-div p{
+div p {
     background-color: crimson;
 }
 
-#sub_div h5{
+#sub_div h5 {
     background-color: cornflowerblue;
 }
-.class1, .class2{
+
+.class1,
+.class2 {
     color: darkgoldenrod;
 }

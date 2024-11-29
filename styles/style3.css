@@ -1,11 +1,12 @@
-.types{
+.types {
     color: darkred;
 }
 
-*{
+* {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
-ul{
+
+ul {
     margin-top: 50px;
 }

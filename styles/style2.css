@@ -1,32 +1,31 @@
 /* tag selector */
 
-body{
+body {
     margin-top: 100px;
     margin-left: 100px;
 }
 
 /* id selector */
 
-#main_heading
-{
+#main_heading {
     color: darkseagreen;
 }
-#sub_heading
-{
+
+#sub_heading {
     color: darkred;
 }
 
 /* class selector */
 
-.sectors_name{
+.sectors_name {
     color: hotpink;
     font-size: 10px;
 }
 
-#class_selector_name{
+#class_selector_name {
     color: midnightblue;
 }
 
-*{
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
