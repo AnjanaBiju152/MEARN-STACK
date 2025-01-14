@@ -1,0 +1,31 @@
+Media Queries
+====================
+Media queries are used to apply css styles depending on screen width of the device
+or orientation of screen (landscape/portrait)
+common media query resolutions
+-------------------------------
+1) @media (max-width:599px) : small devices - portrait Mode
+2) @media (max-width: 899px) : small devices - landscape
+3) @media (min-width:600px) and (max-width:959px) : Tab - portrait mode
+4) @media (min-width:900px) and (max-width:1199) : Tab - landscape mode
+5) @media (min-width:1200px) : normal desktop 
+display:none
+------------
+display :none means, the html element is not rendered there,
+ visibility:hidden
+ --------------------
+ visibility:hidden means, the html is rendred there also space is 
+ allocated for that element, but hidden from the user
+psuedo classes:
+------------------
+ pseudo classes in css are keywords that specify a special state of the 
+ selected html element
+ eg: hover
+ focus
+ visited
+ 
+ uses:
+ button:hover{
+ }
+ input:focus{
+ }

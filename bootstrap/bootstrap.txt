@@ -1,0 +1,53 @@
+Bootsrap
+---------------
+Bootsrap is a popular CSS framework developed by twitter
+- it provide pre-designed templates and components (such as buttons, forms, 
+carousel, etc)
+ to help developers quickly and easily create responsive and mobile first website
+- it also provide grid system that developers can easily use
+- it includes different pre-defined classes, we can directly utilize this in our 
+html
+- CDN : content delivery newtwork (to get content from other website)
+- to use bootstrap in our page, we have to import CDN of bootsrap into head section
+ of our html page
+- Bootstrap 5.3V is currently we are using
+- https://getbootstrap.com/
+Common classes in Bootsrap
+=================================
+ 1) container : it provide a margin along with padding on left and right
+ 2) container-fluid: - it provide a small padding on left and right
+ default colors in bootstrap
+ ---------------------------
+ success - green
+ primary - blue
+ danger - red
+ warning - orange
+ dark - black
+ light - white
+ info - sky blue
+ secondary - grey
+3) text-center : to center a text in the containing div
+4) m-1 to m-5 , eg: m-1, m-2, m-3, : to provide margin from all 4 directions
+5) mt-5, mb-5, ms-4, me-5
+ mt- margin top
+ mb- margin bottom
+ ms- margin left(start)
+ me - margin right (end)
+6) p-1 to p-5
+7) pt, pb, ps, pe
+8) border, border-success border-5
+9) fs : font size values fs-1 fs-5, fs-1 is maximum value and fs-5 is minimum value
+10) btn , btn-success, btn-sm - small btn, btn-lg - large button, btn-md - medium 
+btn
+11) width : w-25, w-50, w-75, w-100
+Bootsrap Grid system
+=======================
+The grid system in Bootstrap is a responsive, mobile-first layout grid that
+ - allows developers to structure the layout of a web page or application. 
+ It's based on a 12-column grid layout system, which provides
+ flexibility and control over how content is displayed across 
+ different screen sizes and devices.
+- The grid system is divided into 12 columns, which can be used to create 
+ various layouts. Developers can specify how many columns each element 
+ should occupy on different screen sizes 
+ (such as extra small, small, medium, large, and extra large).
